@@ -349,7 +349,7 @@ form {
   border-top: #000 2px solid;
 }
 
-.sn {
+.social-media {
   display: flex;
   align-self: self-end;
   gap: 80px;
